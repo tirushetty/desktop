@@ -1,0 +1,88 @@
+aws access key
+id :- AKIAWQNOBMJ4GU7M43RO
+pa :- +yxpvq6WrlTmqK7TFMOTqwiV4xf76Rmb1zf/V3v7
+
+sample user1 details
+LINK:- https://447578464888.signin.aws.amazon.com/console
+ID:- sample_user1
+PASSWORD:- Password@123
+ARN:- arn:aws:iam::447578464888:user/sample_user1
+
+SERVER_USER
+LINK:- https://447578464888.signin.aws.amazon.com/console
+ID:- server_user
+PAS:- Server@123
+
+nagesh
+DNS:- ec2-3-108-235-116.ap-south-1.compute.amazonaws.com
+ID:-Administrator
+PAS:- L6NMju1xXIOzKS3FHUe*V.Q7U5IWEeY0
+
+nagaraju link:- https://447578464888.signin.aws.amazon.com/console
+id:- nagaraju
+pass:- 32510@Nagaraju
+
+https://us02web.zoom.us/j/88973720863?pwd=OFBobEwzcTRkOFJQSHV6VE5OVEFwUT09
+
+https://aws.amazon.com/getting-started/hands-on/amazon-ec2-backup-and-restore-using-aws-backup/?ref=gsrchandson&id=itprohandson
+
+https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-one/?e=gs2020&p=build-a-web-app-intro
+
+=================================================================================================================================================
+
+GIT
+
+
+
+git init
+git config --global user.name "varala shashank"
+git config --global user.email"shashankvarala@gmail.com"
+
+git config --list
+
+git config --global --unset user.name 
+git config --global --unset user.email
+
+----------------------
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "label" file1
+git status
+git log
+git show cid
+
+-------------------
+touch file2 file3 file4
+ls
+git status
+git add file2 file3 file4
+or
+git add .
+or
+git add *
+or
+git add -A
+git status
+git commit -m "label"
+
+============================================================================================================
+
+token
+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
+
+============================================================================================================
+IAM user Access key
+
+AKIAWQNOBMJ4PBVMEBRZ    key
+
+s52SL2q19V7gKXx8I6fkoFhAdgVdnUKdBWbtoQXc     secret key
+
+============================================================================================================
+
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-10-on-ubuntu-20-04   
+
+ /usr/lib/jvm/java-1.11.0-openjdk-amd64    --tomcat path  
+
